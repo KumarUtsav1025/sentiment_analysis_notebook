@@ -23,17 +23,10 @@
 ##  Quick Links
 
 > - [ Overview](#-overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
->   - [ Running sentiment_analysis_notebook](#-running-sentiment_analysis_notebook)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
 > - [ Contributing](#-contributing)
 > - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -114,7 +107,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the MIT License. For more details, refer to the [LICENSE](https://github.com/KumarUtsav1025/sentiment_analysis_notebook/blob/main/LICENSE) file.
 
 
 ---
